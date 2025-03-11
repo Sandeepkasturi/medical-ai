@@ -1,0 +1,9 @@
+streamlit
+requests
+google
+ipython
+google-generativeai
+google-auth
+google-ai-generativelanguage
+streamlit_lottie
+pymupdf
